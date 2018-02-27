@@ -1,0 +1,5 @@
+/IContainerScope.r
+/ILifecycleScope.r
+/IRequestScope.r
+/ISessionScope.r
+/ITransientScope.r
